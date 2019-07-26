@@ -201,6 +201,7 @@
     <Content Include="Content\images\bg.png" />
     <Content Include="Content\images\favicon.ico" />
     <Content Include="Content\images\logo-politic.png" />
+    <Content Include="Content\images\logos\logo 2.png" />
     <Content Include="Content\images\logos\logo-2.png" />
     <Content Include="Content\images\logos\LOGO-Al-Azaraq.png" />
     <Content Include="Content\images\logos\logo.png" />
@@ -243,6 +244,17 @@
     <Content Include="Content\images\prettyPhoto\light_square\default_thumbnail.gif" />
     <Content Include="Content\images\prettyPhoto\light_square\loader.gif" />
     <Content Include="Content\images\prettyPhoto\light_square\sprite.png" />
+    <Content Include="Content\img-Comany\aluminum-sliding-classs-doors.jpg" />
+    <Content Include="Content\img-Comany\Canon-Double-Glazing-1.jpg" />
+    <Content Include="Content\img-Comany\favicon.ico" />
+    <Content Include="Content\img-Comany\logo-alazaraq.png" />
+    <Content Include="Content\img-Comany\project-1.jpg" />
+    <Content Include="Content\img-Comany\project-2.jpg" />
+    <Content Include="Content\img-Comany\revolving door.jpg" />
+    <Content Include="Content\img-Comany\roof system.jpg" />
+    <Content Include="Content\img-Comany\sliding-window.jpg" />
+    <Content Include="Content\img-Comany\stairs-glass-works-project-3.jpg" />
+    <Content Include="Content\img-Comany\Your-Office-Space-with-Partitions.jpg" />
     <Content Include="Content\js\all.js" />
     <Content Include="Content\js\custom.js" />
     <Content Include="Content\js\hoverdir.js" />
@@ -315,7 +327,6 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
-    <Content Include="template\index.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
