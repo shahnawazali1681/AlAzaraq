@@ -508,21 +508,27 @@ li.social-links a {
 -------------------------------------------------------------------*/
 
 .slider-bg-one {
-    background-image: url('/Content/uploads/slider_01.jpg');
+    background-image: url('/Content/img-Comany/home-01.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .slider-bg-two {
-    background-image: url('/Content/uploads/slider_02.jpg');
+    background-image: url('/Content/img-Comany/home-02.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .slider-bg-three {
-    background-image: url('/Content/uploads/slider_03.jpg');
+    background-image: url('/Content/img-Comany/home03.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-four {
+    background-image: url('/Content/img-Comany/home-04.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
